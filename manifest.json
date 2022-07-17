@@ -1,0 +1,15 @@
+{
+  "short_name": "Where in the world?",
+  "name": "Opeoluwa-Ogunlaja - Where in the world?",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "hsl(209, 23%, 22%)",
+  "background_color": "hsl(209, 23%, 22%)"
+}
