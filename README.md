@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://opeoluwa-ogunlaja.github.io/frontendmentor_rest-countries-api-with-color-theme-switcher-master/)
+- Solution URL: [My solution on frontendmentor](https://www.frontendmentor.io/solutions/restcountriesapiproject-93-T7gp3Ke)
+- Live Site URL: View my try [here](https://opeoluwa-ogunlaja.github.io/frontendmentor_rest-countries-api-with-color-theme-switcher-master/)
 
 
 ### Built with
